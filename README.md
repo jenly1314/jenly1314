@@ -4,9 +4,10 @@
 
 **温馨提示：** 之前所有发布至**JCenter**的开源库，如果当前库最新版本未迁移至**Maven Central**，理论上都可以使用**Jit Pack**仓库
 
+![](https://hit.yhype.me/github/profile?user_id=4995173)
 ![Jenly's github stats](https://github-readme-stats.vercel.app/api?username=jenly1314&show_icons=true&include_all_commits=true&hide=issues,prs)
 
-![](https://hit.yhype.me/github/profile?user_id=4995173)
+
 <!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenly1314&layout=compact&hide=html,JavaScript,CSS)
 -->
