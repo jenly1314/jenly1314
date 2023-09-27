@@ -6,8 +6,7 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=4995173)
 
-![Jenly's github stats](https://jenly1314.vercel.app/api?username=jenly1314&show_icons=true&hide_border=true&&include_all_commits=true&hide=issues,prs)
-![Top Langs](https://jenly1314.vercel.app/api/top-langs/?username=jenly1314&show_icons=true&layout=compact&hide_border=true)
+![Jenly's github stats](https://jenly1314.vercel.app/api?username=jenly1314&show_icons=true&line_height=30&hide_border=true&&include_all_commits=true&hide=issues,prs)![Top Langs](https://jenly1314.vercel.app/api/top-langs/?username=jenly1314&show_icons=true&layout=compact&hide_border=true)
 
 ```
 ┌───────────────────────────────────────────────────────────────────────────────────────────────┐
