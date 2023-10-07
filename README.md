@@ -2,6 +2,7 @@
 
 * **码云同步：** [https://gitee.com/jenly1314](https://gitee.com/jenly1314)
 * **温馨提示：** 之前所有发布至 **JCenter** 的开源库，如果当前库最新版本未迁移至 [**Maven Central**](https://repo1.maven.org/maven2/com/github/jenly1314/)，理论上都可以使用 [**Jit Pack**](https://jitpack.io/) 仓库。
+![](https://hit.yhype.me/github/profile?user_id=4995173)
 
 ![Jenly's github stats](https://jenly1314.vercel.app/api?username=jenly1314&show_icons=true&line_height=30&hide_border=true&&include_all_commits=true&hide=issues,prs)![Top Langs](https://jenly1314.vercel.app/api/top-langs/?username=jenly1314&show_icons=true&layout=compact&hide_border=true)
 <!--
@@ -33,6 +34,3 @@
 
 | [![RetrofitHelper](https://jenly1314.vercel.app/api/pin/?username=jenly1314&hide_border=true&bg_color=ffffff&repo=RetrofitHelper)](https://github.com/jenly1314/RetrofitHelper) | [![DrawBoard](https://jenly1314.vercel.app/api/pin/?username=jenly1314&hide_border=true&bg_color=ffffff&repo=DrawBoard)](https://github.com/jenly1314/DrawBoard) |
 |------------- |------------- |
-
-![](https://hit.yhype.me/github/profile?user_id=4995173)
-
