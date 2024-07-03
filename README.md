@@ -26,7 +26,7 @@
 ```
  -->
  
-| [![ImageViewer](https://jenly1314.vercel.app/api/pin/?username=jenly1314&hide_border=true&bg_color=ffffff&repo=ImageViewer)](https://github.com/jenly1314/ImageViewer) | [![MLKit](https://jenly1314.vercel.app/api/pin/?username=jenly1314&hide_border=true&bg_color=ffffff&repo=MLKit)](https://github.com/jenly1314/MLKit) |
+| [![ImageViewer](https://jenly1314.vercel.app/api/pin/?username=jenly1314&hide_border=true&bg_color=ffffff&repo=ImageViewer)](https://github.com/jenly1314/ImageViewer) | [![AppTemplate](https://jenly1314.vercel.app/api/pin/?username=jenly1314&hide_border=true&bg_color=ffffff&repo=AppTemplate)](https://github.com/jenly1314/AppTemplate) |
 |------------- |------------- |
 
 | [![DrawBoard](https://jenly1314.vercel.app/api/pin/?username=jenly1314&hide_border=true&bg_color=ffffff&repo=DrawBoard)](https://github.com/jenly1314/DrawBoard) | [![AppPay](https://jenly1314.vercel.app/api/pin/?username=jenly1314&hide_border=true&bg_color=ffffff&repo=AppPay)](https://github.com/jenly1314/AppPay) |
