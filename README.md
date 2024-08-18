@@ -1,7 +1,7 @@
 ### Jenly's GitHub
 
-* **开源项目：** [https://jenly1314.github.io/projects](https://jenly1314.github.io/projects)
 * **码云同步：** [https://gitee.com/jenly1314](https://gitee.com/jenly1314)
+* **开源项目：** [https://jenly1314.github.io/projects](https://jenly1314.github.io/projects)
 * **温馨提示：** 之前所有发布至 **JCenter** 的开源库，如果当前库最新版本未迁移至 [**Maven Central**](https://repo1.maven.org/maven2/com/github/jenly1314/)，理论上都可以使用 [**Jit Pack**](https://jitpack.io/) 仓库。
 ![](https://hit.yhype.me/github/profile?user_id=4995173)
 
