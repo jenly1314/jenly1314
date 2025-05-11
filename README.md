@@ -5,10 +5,6 @@
 | [Jenly's Blog](https://jenly1314.github.io "点击访问博客") | [jenly1314](https://github.com/jenly1314 "点击访问GitHub") | [jenly1314](https://gitee.com/jenly1314 "点击访问Gitee") | [Jenly666](http://weixin.qq.com/r/wzpWTuPEQL4-ract92-R "微信公众号：Jenly666") | [jenly1314@gmail.com](mailto:jenly1314@gmail.com "点击发送邮件") / [jenly1314@vip.qq.com](mailto:jenly1314@vip.qq.com "点击发送邮件") | [20867961](https://qm.qq.com/cgi-bin/qm/qr?k=6_RukjAhwjAdDHEk2G7nph-o8fBFFzZz "点击加入QQ群") | [64020761](https://qm.qq.com/cgi-bin/qm/qr?k=Z9pobM8bzAW7tM_8xC31W8IcbIl0A-zT "点击加入QQ群") |
 
 
-
-
-### Jenly's GitHub
-
 * **码云同步：** [https://gitee.com/jenly1314](https://gitee.com/jenly1314)
 * **开源项目：** [https://jenly1314.github.io/projects](https://jenly1314.github.io/projects)
 * **温馨提示：** 之前所有发布至 **JCenter** 的开源库，如果当前库最新版本未迁移至 [**Maven Central**](https://repo1.maven.org/maven2/com/github/jenly1314/)，理论上都可以使用 [**Jit Pack**](https://jitpack.io/) 仓库。
